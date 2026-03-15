@@ -5,7 +5,6 @@ Portfolio case study focused on KPI reporting and business insights for retail p
 ## Tech stack
 - SQL
 - Tableau (dashboard)
-- Python (optional, for data prep)
 
 ## Repository structure
 - `sql/` — queries / notes (if used)
