@@ -1,4 +1,4 @@
-# Phoenix Retail -KPI Dashboard (Sales, Profit & Discount)
+# Phoenix Retail - KPI Dashboard (Sales, Profit & Discount)
 
 Portfolio case study focused on KPI reporting and business insights for retail performance.
 
